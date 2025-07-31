@@ -16,9 +16,9 @@ pip (Python's package installer).
 2. Project Files
 Place the following files in the same directory:
 
-ATSver1.0.py (the main application script)
+**ATSver1.0.py (the main application script)
 .env
-requirements.txt
+requirements.txt**
 
 3. Environment Variables
 This project requires API keys and a database connection string to function so make to open the main application file within the same directory as .env
